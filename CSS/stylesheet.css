@@ -1,0 +1,16 @@
+body {
+	background-color: beige;
+}
+* {
+	color: black;
+}
+h1 {
+	color: black;
+}
+h2 {
+	color: black;
+}
+.animal{
+	font-family: Do Hyeon;
+	font-size: 22px;
+}
